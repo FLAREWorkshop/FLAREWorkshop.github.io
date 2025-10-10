@@ -27,7 +27,8 @@ announcements:
 
 Today, the progress of AI capabilities far outpaces Moore's law. More concerningly, it also exceeds the pace at which we understand how these systems learn, reason, and their reliability. AI is rapidly permeating many facets of society, including scientific research. Fundamental research in AI is therefore essential—not only to ensure its safe and sustainable development, but also to effectively integrate it as a scientific tool.
 
-One of the most remarkable recent achievements in AI is the advent of Large Language Models (LLMs), like ChatGPT. These generative language models are based on deep transformer architectures pre-trained on massive text corpora. They learn to produce grammatically coherent text solely from examples—a capability that many linguists once deemed impossible. Identifying the textual correlations these models exploit, understanding the emergence of hierarchical language representation, and how these representations encode grammar and semantics are among the central questions of our time. This workshop will explore these questions, now increasingly accessible to rigorous empirical investigation, guided by foundational theories and the development of synthetic, structured data models.
+One of the most remarkable recent achievements in AI is the advent of Large Language Models (LLMs), like ChatGPT. These generative language models are based on deep transformer architectures pre-trained on massive text corpora. They learn to produce grammatically coherent text solely from examples—a capability that many linguists once deemed impossible. Identifying the textual correlations these models exploit, understanding the emergence of hierarchical language representation, and how these representations encode grammar and semantics are among the central questions of our time. This workshop will explore these questions guided by foundational theories and the development of synthetic, structured data models, as well as taking inspiration from the study of language as a human neuro-cognitive system.
+
 
 ---
 
@@ -39,7 +40,7 @@ One of the most remarkable recent achievements in AI is the advent of Large Lang
 
 ## confirmed speakers
 
-Emmanuel Abbe (EPFL)\
+Emmanuel Abbe (EPFL)<br>
 <!-- Yasaman Bahri (DeepMind) -->
 Maissam Barkeshli (Maryland)\
 Gemma Boleda (Pompeu Fabra)\
@@ -60,7 +61,7 @@ Eshaan Nichani (Princeton)\
 Isabel Papadimitriou (British Columbia)\
 Andrew Saxe (UCL)\
 Martin Schrimpf (EPFL)\
-Greta Tuckute (MIT)
+Greta Tuckute (Harvard)
 
 ---
 
@@ -68,9 +69,10 @@ Greta Tuckute (MIT)
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Marco Baroni" affiliation="Pompeu Fabra" url="https://marcobaroni.org/" img="assets/img/organisers/mb.png" %}
-  {% include people_horizontal.html name="Francesco Cagnetta" affiliation="SISSA" url="https://fracagnetta.github.io/" img="assets/img/organisers/fc.jpg" %}
+  {% include people_horizontal.html name="Francesco Cagnetta" affiliation="SISSA" url="https://fracagnetta.github.io/" img="assets/img/organisers/fc.png" %}
   {% include people_horizontal.html name="Andrey Gromov" affiliation="Meta FAIR" url="https://sites.google.com/view/andreygromov/pi" img="assets/img/organisers/ag.png" %}
-  {% include people_horizontal.html name="Matthieu Wyart" affiliation="Johns Hopkins" url="https://physics-astronomy.jhu.edu/directory/matthieu-wyart/" img="assets/img/organisers/mw.png" %}
+  {% include people_horizontal.html name="Matthieu Wyart" affiliation="Johns Hopkins / EPFL" url="https://physics-astronomy.jhu.edu/directory/matthieu-wyart/" img="assets/img/organisers/mw.png" %}
+  {% include people_horizontal.html name="Corinne Weibel" affiliation="EPFL" url="https://people.epfl.ch/corinne.weibel?lang=en" img="assets/img/organisers/cw.png" %}
 </div>
 
 ---
