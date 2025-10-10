@@ -29,12 +29,12 @@ Today, the progress of AI capabilities far outpaces Moore's law. More concerning
 
 One of the most remarkable recent achievements in AI is the advent of Large Language Models (LLMs), like ChatGPT. These generative language models are based on deep transformer architectures pre-trained on massive text corpora. They learn to produce grammatically coherent text solely from examples—a capability that many linguists once deemed impossible. Identifying the textual correlations these models exploit, understanding the emergence of hierarchical language representation, and how these representations encode grammar and semantics are among the central questions of our time. This workshop will explore these questions guided by foundational theories and the development of synthetic, structured data models, as well as taking inspiration from the study of language as a human neuro-cognitive system.
 
-
 ---
 
 ## when and where
 * **Date:** 11-13 May, 2026
 * **Venue:** Bernoulli Center @ EPFL, Lausanne, Switzerland
+* **Participation** is free, but places are limited. A registration form will be available soon.
 
 ---
 
