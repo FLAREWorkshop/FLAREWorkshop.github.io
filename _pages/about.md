@@ -71,6 +71,7 @@ Greta Tuckute (Harvard)
   {% include people_horizontal.html name="Marco Baroni" affiliation="Pompeu Fabra" url="https://marcobaroni.org/" img="assets/img/organisers/mb.png" %}
   {% include people_horizontal.html name="Francesco Cagnetta" affiliation="SISSA" url="https://fracagnetta.github.io/" img="assets/img/organisers/fc.png" %}
   {% include people_horizontal.html name="Andrey Gromov" affiliation="Meta FAIR" url="https://sites.google.com/view/andreygromov/pi" img="assets/img/organisers/ag.png" %}
+  {% include people_horizontal.html name="Clement Hongler" affiliation="EPFL" url="https://hongler.org/" img="assets/img/organisers/ch.png" %}
   {% include people_horizontal.html name="Matthieu Wyart" affiliation="Johns Hopkins / EPFL" url="https://physics-astronomy.jhu.edu/directory/matthieu-wyart/" img="assets/img/organisers/mw.png" %}
   {% include people_horizontal.html name="Corinne Weibel" affiliation="EPFL" url="https://people.epfl.ch/corinne.weibel?lang=en" img="assets/img/organisers/cw.png" %}
 </div>
