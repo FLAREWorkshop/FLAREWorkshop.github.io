@@ -41,21 +41,21 @@ One of the most remarkable recent achievements in AI is the advent of Large Lang
 ## confirmed speakers
 
 Emmanuel Abbe (EPFL)<br>
-<!-- Yasaman Bahri (DeepMind) -->
+Yasaman Bahri (DeepMind)\
 Maissam Barkeshli (Maryland)\
 Gemma Boleda (Pompeu Fabra)\
 Blake Bordelon (Harvard)\
 Antoine Bosselut (EPFL)\
 Tankut Can (Emory)\
 Emily Cheng (Pompeu Fabra)\
-Alessandro Favero (DAMTP)\
+Alessandro Favero (Cambridge)\
 Michael Gastpar (EPFL)\
 Federica Gerace (UniBO)\
-<!-- Surbhi Goel (UPenn)\ -->
+Surbhi Goel (UPenn)\
 Jennifer Hu (Johns Hopkins)\
 Jean-Rémi King (ENS / META AI)\
 Alessandro Laio (SISSA)\
-<!-- Ekdeep Singh Lubana (Goodfire AI) -->
+Ekdeep Singh Lubana (Goodfire AI)\
 William Merrill (Ai2 / TTIC)\
 Eshaan Nichani (Princeton)\
 Isabel Papadimitriou (British Columbia)\
