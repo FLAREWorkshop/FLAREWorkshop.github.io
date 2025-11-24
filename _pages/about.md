@@ -41,6 +41,7 @@ One of the most remarkable recent achievements in AI is the advent of Large Lang
 ## confirmed speakers
 
 Emmanuel Abbe (EPFL)<br>
+Jacob Andreas (MIT)\
 Yasaman Bahri (DeepMind)\
 Maissam Barkeshli (Maryland)\
 Gemma Boleda (Pompeu Fabra)\
