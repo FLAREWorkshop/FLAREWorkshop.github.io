@@ -34,7 +34,6 @@ One of the most remarkable recent achievements in AI is the advent of Large Lang
 ## when and where
 * **Date:** 11-13 May, 2026
 * **Venue:** Bernoulli Center @ EPFL, Lausanne, Switzerland
-* **Participation** is free, but places are limited. A registration form will be available soon.
 
 ---
 
