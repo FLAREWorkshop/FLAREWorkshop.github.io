@@ -52,11 +52,9 @@ Alessandro Favero (Cambridge)\
 Michael Gastpar (EPFL)\
 Federica Gerace (UniBO)\
 Surbhi Goel (UPenn)\
-Jennifer Hu (Johns Hopkins)\
 Jean-Rémi King (ENS / META AI)\
 Alessandro Laio (SISSA)\
 Ekdeep Singh Lubana (Goodfire AI)\
-William Merrill (Ai2 / TTIC)\
 Eshaan Nichani (Princeton)\
 Isabel Papadimitriou (British Columbia)\
 Andrew Saxe (UCL)\
