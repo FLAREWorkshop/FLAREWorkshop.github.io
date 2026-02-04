@@ -56,6 +56,7 @@ Jean-Rémi King (ENS / META AI)\
 Alessandro Laio (SISSA)\
 Mary Letey (Harvard)\
 Ekdeep Singh Lubana (Goodfire AI)\
+Eric J. Michaud (Astera Institute)\
 Eshaan Nichani (Princeton)\
 Isabel Papadimitriou (British Columbia)\
 Andrew Saxe (UCL)\
