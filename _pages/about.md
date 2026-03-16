@@ -34,6 +34,7 @@ One of the most remarkable recent achievements in AI is the advent of Large Lang
 ## when and where
 * **Date:** 11-13 May, 2026
 * **Venue:** Bernoulli Center @ EPFL, Lausanne, Switzerland
+* **Practical information:** [PDF](assets/pdf/Practical_Information_CIB_2026.pdf)
 
 ---
 
@@ -55,7 +56,6 @@ Surbhi Goel (UPenn)\
 Jean-Rémi King (ENS / META AI)\
 Alessandro Laio (SISSA)\
 Mary Letey (Harvard)\
-Ekdeep Singh Lubana (Goodfire AI)\
 Eric J. Michaud (Astera Institute)\
 Eshaan Nichani (Princeton)\
 Isabel Papadimitriou (British Columbia)\
