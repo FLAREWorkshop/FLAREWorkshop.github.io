@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: schedule
-description: Tentative schedule for the FLARE Workshop, May 11–13 2026.
+description:
 nav: true
 nav_order: 1
 ---
