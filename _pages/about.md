@@ -54,6 +54,7 @@ Michael Gastpar (EPFL)\
 Federica Gerace (UniBO)\
 Surbhi Goel (UPenn)\
 Jean-Rémi King (ENS / META AI)\
+Daniel J. Korchinski (EPFL)\
 Alessandro Laio (SISSA)\
 Mary Letey (Harvard)\
 Eric J. Michaud (Astera Institute)\
