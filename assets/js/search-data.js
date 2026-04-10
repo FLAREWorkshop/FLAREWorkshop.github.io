@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-schedule",
           title: "schedule",
-          description: "Tentative schedule for the FLARE Workshop, May 11–13 2026.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/schedule/";
