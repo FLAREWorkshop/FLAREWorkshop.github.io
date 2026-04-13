@@ -22,7 +22,7 @@ h2 { margin-top: 2.5em; }
 | 10:50–11:30 | Michael<br>Gastpar | Universal Prediction Perspectives on LLMs |
 | 11:30–12:10 | Andrew<br>Saxe | Solvable dynamics of aspects of language acquisition in neural networks |
 | 12:10–13:30 | *Lunch* | |
-| 13:30–14:10 | Alessandro<br>Laio | Identifying semantic information in deep representations of language |
+| 13:30–14:10 | Antoine<br>Bosselut | From Attention to Internalization: Reasoning as Test-Time Learning |
 | 14:10–14:50 | Emily<br>Cheng | Higher representational dimensionality signifies feature abstraction in brains and machines during language processing |
 | 14:50–15:30 | Isabel<br>Papadimitriou | Syntax from data points: understanding the learning and representation of structural abstraction in language models |
 | 15:30–16:00 | *Coffee break* | |
@@ -48,7 +48,7 @@ h2 { margin-top: 2.5em; }
 | Time | Speaker | Title |
 |------|---------|-------|
 | 9:00–9:40 | Martin<br>Schrimpf | Brain-Like Artificial Intelligence: Alignment and Misalignment in NeuroAI |
-| 9:40–10:20 | Antoine<br>Bosselut | From Attention to Internalization: Reasoning as Test-Time Learning |
+| 9:40–10:20 | Alessandro<br>Laio | Identifying semantic information in deep representations of language |
 | 10:20–10:50 | *Coffee break* | |
 | 10:50–11:30 | Gemma<br>Boleda | LLMs as a synthesis between symbolic and distributed approaches to language |
 | 11:30–12:10 | Emmanuel<br>Abbe | Dynamic reasoning and planning models |
