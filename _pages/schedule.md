@@ -35,7 +35,7 @@ h2 { margin-top: 2.5em; }
 | Time | Speaker | Title |
 |------|---------|-------|
 | 9:00–9:40 | Federica<br>Gerace | Testing transformer learnability on the iterated prime factorization of the natural numbers |
-| 9:40–10:20 | Blake<br>Bordelon | What are models scaling towards? Universal training dynamics of transformers and hyperparameter transfer across model size and training horizon |
+| 9:40–10:20 | Emmanuel<br>Abbe | Dynamic reasoning and planning models |
 | 10:20–10:50 | *Coffee break* | |
 | 10:50–11:30 | Greta<br>Tuckute | From Sounds to Linguistic Meanings in Biological and Artificial Systems |
 | 11:30–12:10 | Surbhi<br>Goel | TBC |
@@ -51,7 +51,7 @@ h2 { margin-top: 2.5em; }
 | 9:40–10:20 | Alessandro<br>Laio | Identifying semantic information in deep representations of language |
 | 10:20–10:50 | *Coffee break* | |
 | 10:50–11:30 | Gemma<br>Boleda | LLMs as a synthesis between symbolic and distributed approaches to language |
-| 11:30–12:10 | Emmanuel<br>Abbe | Dynamic reasoning and planning models |
+| 11:30–12:10 | Blake<br>Bordelon | What are models scaling towards? Universal training dynamics of transformers and hyperparameter transfer across model size and training horizon |
 | 12:10–13:30 | *Lunch* | |
 | 13:30–14:10 | Maissam<br>Barkeshli | TBC |
 | 14:10–14:50 | Mary<br>Letey | Solvable models of in-context learning |
