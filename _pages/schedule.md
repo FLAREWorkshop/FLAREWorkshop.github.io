@@ -39,7 +39,7 @@ h2 { margin-top: 2.5em; }
 | 9:40–10:20 | Blake Bordelon - *What are models scaling towards? Universal training dynamics of transformers and hyperparameter transfer across model size and training horizon* | |
 | 10:20–10:50 | *Coffee break* | |
 | 10:50–11:30 | Greta Tuckute - *From Sounds to Linguistic Meanings in Biological and Artificial Systems* | |
-| 11:30–12:10 | Surbhi Goel - *TBA* | |
+| 11:30–12:10 | Surbhi Goel - *Effective Human-AI Collaboration via Communicating Uncertainty* | |
 | 12:10–13:30 | *Lunch* | |
 | 13:30–14:10 | Tankut Can - *Memory for Narratives and the Entropy of English* | Sebastian Goldt | 
 | 14:10–14:50 | Daniel J. Korchinski - *Linear analogies and the geometry of model representations from text statistics* | |
