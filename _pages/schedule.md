@@ -23,7 +23,7 @@ h2 { margin-top: 2.5em; }
 | 10:50–11:30 | Michael Gastpar - *Universal Prediction Perspectives on LLMs* | |
 | 11:30–12:10 | Andrew Saxe - *Solvable dynamics of aspects of language acquisition in neural networks* | |
 | 12:10–13:30 | *Lunch* | |
-| 13:30–14:10 | Alessandro Laio - *Identifying semantic information in deep representations of language* | Gemma Boleda |
+| 13:30–14:10 | Antoine Bosselut - *From Attention to Internalization: Reasoning as Test-Time Learning* | Gemma Boleda |
 | 14:10–14:50 | Emily Cheng - *Higher representational dimensionality signifies feature abstraction in brains and machines during language processing* | |
 | 14:50–15:30 | Isabel Papadimitriou - *Syntax from data points: understanding the learning and representation of structural abstraction in language models* | |
 | 15:30–16:00 | *Coffee break* | |
@@ -35,7 +35,7 @@ h2 { margin-top: 2.5em; }
 
 | Time | Event | Chair |
 |------|-------|-------|
-| 9:00–9:40 | Federica Gerace - *Testing transformer learnability on the iterated prime factorization of the natural number*s | Francesco Cagnetta |
+| 9:00–9:40 | Federica Gerace - *Testing transformer learnability on the iterated prime factorization of the natural numbers* | Francesco Cagnetta |
 | 9:40–10:20 | Emmanuel Abbe - *Dynamic reasoning and planning models* | |
 | 10:20–10:50 | *Coffee break* | |
 | 10:50–11:30 | Greta Tuckute - *From Sounds to Linguistic Meanings in Biological and Artificial Systems* | |
@@ -49,7 +49,7 @@ h2 { margin-top: 2.5em; }
 | Time | Event | Chair |
 |------|-------|-------|
 | 9:00–9:40 | Martin Schrimpf - *Brain-Like Artificial Intelligence: Alignment and Misalignment in NeuroAI* | Marco Baroni|
-| 9:40–10:20 | Antoine Bosselut - *From Attention to Internalization: Reasoning as Test-Time Learning* | |
+| 9:40–10:20 | Alessandro Laio - *Identifying semantic information in deep representations of language* | |
 | 10:20–10:50 | *Coffee break* | |
 | 10:50–11:30 | Gemma Boleda - *LLMs as a synthesis between symbolic and distributed approaches to language* | |
 | 11:30–12:10 | Blake Bordelon - *What are models scaling towards? Universal training dynamics of transformers and hyperparameter transfer across model size and training horizon* | |
