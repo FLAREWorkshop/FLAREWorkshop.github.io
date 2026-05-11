@@ -54,7 +54,7 @@ h2 { margin-top: 2.5em; }
 | 10:50–11:30 | Gemma Boleda - *LLMs as a synthesis between symbolic and distributed approaches to language* | |
 | 11:30–12:10 | Blake Bordelon - *What are models scaling towards? Universal training dynamics of transformers and hyperparameter transfer across model size and training horizon* | |
 | 12:10–13:30 | *Lunch* | |
-| 13:30–14:10 | Maissam Barkeshli - *TBA* | Florent Krzakala |
+| 13:30–14:10 | Maissam Barkeshli - *Hyperparameter transfer and the embedding layer learning rate* | Florent Krzakala |
 | 14:10–14:50 | Mary Letey - *Solvable models of in-context learning* | |
 | 14:50–15:30 | Eshaan Nichani - *Sharp Scaling Laws for Spectral Optimizers in Learning Associative Memory* | |
 | 15:30–16:00 | *Coffee break* | |
